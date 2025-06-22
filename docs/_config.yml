@@ -28,7 +28,7 @@ twitter_username:
 github_username:  cdrenshaw
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 
